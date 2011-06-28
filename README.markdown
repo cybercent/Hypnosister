@@ -1,0 +1,2 @@
+# Hypnosister application
+*Hypnosister*
